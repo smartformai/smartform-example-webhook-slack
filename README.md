@@ -1,4 +1,4 @@
-# SmartForm → Slack
+# Slack contact form webhook — Formspree alternative with AI spam filtering
 
 Receive SmartForm webhook events and forward every new submission to a Slack channel
 as a Block Kit message.
